@@ -10,7 +10,7 @@
 #define BREEDNUM 1201
 #define ITEMNUM 801
 #define BALLNUM 27
-#define SKILLNUM 801//676
+#define SKILLNUM 938//801
 #define AREANUM 256
 #define UNCODENUM 6824
 
